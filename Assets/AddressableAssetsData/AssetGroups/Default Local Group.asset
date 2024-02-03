@@ -16,7 +16,17 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 842b5e538a1ee9b4280c2d751f6be014
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 1d9b0517f9ad5d942b0c4eafb9f83e2e
+    m_Address: Assets/Scenes/Rapid env/Sounds/okay.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a998f3d9ec0020647b2f89485fd444c8
+    m_Address: Assets/Scenes/Rapid env/Standing Arguing.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 90c5b6e6bcfa0db4694e5082de9eb44e, type: 2}
   m_SchemaSet:

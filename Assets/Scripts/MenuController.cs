@@ -6,6 +6,11 @@ public class MenuController : MonoBehaviour
 {
     public void StartBtn()
     {
-        SceneManager.LoadScene("Test Main");
+        SceneManager.LoadScene("Rapid 1");
+    }
+
+    public void StartRapid2() {
+
+        SceneManager.LoadScene("Rapid 2");
     }
 }

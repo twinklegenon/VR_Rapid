@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: ba2d74e169389e6449f4074e5db742e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test Main.unity
     guid: 05a74f9992a070147983dd8493ec0829
   - enabled: 1
-    path: Assets/Scenes/Rapid.unity
+    path: Assets/Scenes/Rapid 1.unity
     guid: ee875df1511ab1740b6edfd2fc38df80
+  - enabled: 1
+    path: Assets/Scenes/Rapid 2.unity
+    guid: 341cc703dd523f247817fccb7baad99e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4fd0ffdc55c14db46a7c9f28743a843c, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 6e5c73a1fb35a314880978addd32f1af, type: 2}

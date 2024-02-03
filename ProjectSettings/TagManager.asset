@@ -8,6 +8,7 @@ TagManager:
   - Selectable
   - obj1
   - Ray Interaction
+  - StopEngine
   layers:
   - Default
   - TransparentFX
